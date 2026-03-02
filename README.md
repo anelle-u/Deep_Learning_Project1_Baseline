@@ -23,15 +23,7 @@ Expected test evaluation for sanity check: PSNR=18-24dB, SSIM=0.70-0.85
 
 ## 2. Repository Structure
 ```
-Deep_Learning_Project1_Baseline/
-  data/
-    RESIDE-6K
-      test/
-        GT/
-        hazy/
-      train/
-        GT/
-        hazy/
+Anne_Code/
   models/
     Resnet12_64_L1_Final.pth
   DeepLearning_Anne_Projet1.ipynb
