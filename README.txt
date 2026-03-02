@@ -1,3 +1,5 @@
+# Deep_Learning_Project1_Baseline
+
 
 # README Project 1 Anne Utegen U91687641
 
@@ -20,22 +22,14 @@ Expected test evaluation for sanity check: PSNR=18-24dB, SSIM=0.70-0.85
 ------------------------------------------------------------
 
 ## 2. Repository Structure
-
-Deep_Learning_Project1_Baseline/
-  data/
-    RESIDE-6K
-      test/
-        GT/
-        hazy/
-      train/
-        GT/
-        hazy/
+```
+Anne_Code/
   models/
     Resnet12_64_L1_Final.pth
   DeepLearning_Anne_Projet1.ipynb
   README.md
   requirements.txt
-
+```
 ------------------------------------------------------------
 
 ## 3. Dataset (Choose ONE of the 3 options)
@@ -58,14 +52,16 @@ https://usf.box.com/s/3ts473tmodohsjmmo4tl4n96a1jstdtx
 Python Version: 3.10
 
 Dependencies: requirements.txt
-
+```
 Using pip:
 pip install -r requirements.txt
-
+```
+```
 Using conda (creates env and installs):
 conda create -n dlproj python=3.10
 conda activate dlproj
 pip install -r requirements.txt
+```
 
 ------------------------------------------------------------
 
