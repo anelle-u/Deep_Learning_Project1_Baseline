@@ -60,14 +60,16 @@ https://usf.box.com/s/3ts473tmodohsjmmo4tl4n96a1jstdtx
 Python Version: 3.10
 
 Dependencies: requirements.txt
-
+```
 Using pip:
 pip install -r requirements.txt
-
+```
+```
 Using conda (creates env and installs):
 conda create -n dlproj python=3.10
 conda activate dlproj
 pip install -r requirements.txt
+```
 
 ------------------------------------------------------------
 
